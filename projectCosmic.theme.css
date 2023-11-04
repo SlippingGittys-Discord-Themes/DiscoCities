@@ -1,7 +1,7 @@
 /**
  * @name projectCosmic
  * @author Vozer
- * @version 11.2023
+ * @version 11.2023 (alpha)
  * @description 
  * @source https://github.com/SlippingGittys-Discord-Themes/projectCosmic
  * @website https://slippinggitty.github.io/
@@ -23,8 +23,8 @@
 > this is the core of the entire theme
 > it is essential that you do not touch any of these urls, unless you know what you are doing.
 */
-
-@import url('https://slippinggittys-discord-themes.github.io/projectCosmic/folder/folder%20of%20components/file%20of%20fonts.css');
-@import url('https://slippinggittys-discord-themes.github.io/projectCosmic/folder/folder%20of%20components/file%20of%20icons.css');
-@import url('https://slippinggittys-discord-themes.github.io/projectCosmic/folder/folder%20of%20components/file%20of%20selectors.css'); 
-@import url('https://slippinggittys-discord-themes.github.io/projectCosmic/folder/folder%20of%20components/file%20of%20variables.css');
+@import url('https://slippinggitty-s-discord-things.github.io/Chat-Bubbles/ChatBubbles.theme.css');
+@import url('https://slippinggittys-discord-themes.github.io/projectCosmic/components/file%20of%20fonts.css');
+@import url('https://slippinggittys-discord-themes.github.io/projectCosmic/components/file%20of%20icons.css');
+@import url('https://slippinggittys-discord-themes.github.io/projectCosmic/components/file%20of%20selectors.css'); 
+@import url('https://slippinggittys-discord-themes.github.io/projectCosmic/components/file%20of%20variables.css');
