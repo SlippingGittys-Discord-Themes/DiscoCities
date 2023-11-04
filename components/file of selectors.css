@@ -1,0 +1,352 @@
+/* Scroll bar */
+.scrollerBase_dc3aa9::-webkit-scrollbar-thumb,
+.scrollerBase_dc3aa9::-webkit-scrollbar-track,
+.webkit__8d35a::-webkit-scrollbar-thumb {
+  display: none;
+}
+
+/* Title Bar on macOS */
+.typeMacOS__496b0 {
+  position: relative;
+  width: 100%;
+  height: 35px;
+}
+
+.theme-dark .typeMacOS__496b0 {
+  background: var(--LilWatFauxTitleBar);
+}
+
+/* Title Bar */
+.theme-dark .themed_b152d4 {
+  background-color: var(--LilWatBackground2);
+  /*border-radius: 10px 1px 1px 10px;
+  border-top: rgb(0, 234, 255) 1px dashed;
+  border-left: rgb(0, 234, 255) 1px dashed;
+  border-bottom: rgb(0, 234, 255) 1px dashed;
+  box-shadow: 1px 3px 5px 1px rgba(0, 0, 255, 0.234);*/
+}
+
+.theme-dark .children__32014:after {
+  display: none;
+}
+
+.search__07df0 {
+  background-color: rgba(0, 7, 98, 0.33);
+  border-radius: 5px;
+  transition: all .3s ease-out;
+  border: rgba(38, 255, 0, 0.245) 2px dotted;
+  box-shadow: 1px 3px 5px 1px rgba(0, 254, 0, 0.086);
+}
+
+/* Adujustments to accommodate for the blank space used for the stoplight*/
+.platform-osx .wrapper_a7e7a8 {
+  margin: 0;
+  padding: 0;
+}
+
+/* Channels */
+.link__95dc0:hover {
+  border: var(--accent) 2px dotted;
+  background-color: rgba(27, 27, 27, 1);
+  border-radius: 20px;
+  transition: all .3s ease-out;
+  box-shadow: inset 5px 0px 5px 5px rgba(0, 0, 0, 0.322);
+}
+
+.modeSelected__487d6 .link__95dc0,
+.interactiveSelected_ec846b {
+  background-color: rgba(0, 7, 98, 0.845);
+  border-radius: 20px;
+  transition: all .3s ease-out;
+  border: yellow 2px dotted;
+  box-shadow: 1px 3px 5px 1px rgba(0, 128, 0, 0.315);
+}
+
+.unreadRelevant__44f9e {
+  animation: spin 1s infinite;
+  border-radius: 50px;
+  margin-left: 7px;
+  transition: all .03s ease-out;
+}
+
+
+/* Channels Sidebar */
+.theme-dark .container__590e2 {
+  margin: 57px 5px 15px 15px;
+  background-color: var(--LilWatSB);
+  border-radius: 10px;
+  border: rgb(0, 234, 255) 1px dashed;
+  box-shadow: 1px 3px 5px 1px blue;
+}
+
+.sidebar_ded4b5,
+.scroller__3d071 {
+  background-color: rgba(3, 3, 22, 0.50);
+}
+
+.animatedContainer__341f6 {
+  border-radius: 10px;
+  border-bottom: rgb(0, 234, 255) 1px dashed;
+}
+
+/* Members Side bar */
+.members__9f47b {
+  margin: 15px;
+  background-color: var(--LilWatSB);
+  border-radius: 10px;
+  border: rgb(0, 234, 255) 1px dashed;
+  box-shadow: 1px 3px 5px 1px blue;
+}
+
+.member_b44d5d {
+  background: var(--null);
+}
+
+/* Some Shit I'll organize later */
+.childWrapper__01b9c,
+.wrapper_d281dd.selected_f5ec8e .childWrapper__01b9c,
+.wrapper_d281dd:hover .childWrapper__01b9c {
+  background-color: rgba(1, 1, 1, 0) !important;
+}
+
+/* DMs Sidebar */
+.theme-dark .scroller__4b984 {
+  margin: 15px;
+  background-color: var(--LilWatSB);
+  border-radius: 10px;
+  border: rgb(0, 234, 255) 1px dashed;
+  box-shadow: 1px 3px 5px 1px blue;
+}
+
+/* Text Box Chat Thing */
+.themedBackground__6b1b6 {
+  border-bottom: red 2px dotted;
+  border-radius: 1px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.themedBackground__6b1b6:hover {
+  background-color: rgba(255, 0, 13, 0.11);
+  border: red 2px dotted;
+  border-radius: 20px;
+  transition: all .3s ease-out;
+  box-shadow: 1px 5px 5px 1px rgba(255, 0, 0, 0.322);
+}
+
+/* Message Actions */
+.message__80c10.selected_fd9051 .buttonsInner_bca8fa,
+.mouse-mode .message__80c10:hover .buttonsInner_bca8fa {
+  border-left: 4px solid rgba(50, 51, 51, 1);
+  border-bottom: rgba(50, 51, 51, 1) 2px solid;
+  background-color: rgb(27, 27, 27);
+  border-radius: 20px;
+  transition: all .3s ease-out;
+  box-shadow: inset 5px 0px 5px 5px rgba(0, 0, 0, 0.322);
+}
+
+/* Messages */
+.theme-dark #app-mount .message__80c10 {
+  background-color: var(--LilWatMB);
+  border: rgb(47, 255, 0) 2px dotted;
+  box-shadow: 1px 3px 5px 1px green;
+}
+
+.newMessagesBar__8b6d7 {
+  background-color: rgba(0, 7, 98, 0.845);
+  border-radius: 20px;
+  transition: all .3s ease-out;
+  border: rgb(0, 255, 55) 2px dotted;
+  box-shadow: 1px 3px 5px 1px rgba(0, 128, 0, 0.315);
+  margin-top: 5px;
+}
+
+/* Context Menus */
+.scroller__750f5 {
+  background: radial-gradient(circle, rgba(255, 0, 0, 0.4), rgba(255, 165, 0, 0.4), rgba(255, 255, 0, 0.4), rgba(0, 128, 0, 0.4), rgba(0, 0, 255, 0.4), rgba(75, 0, 130, 0.4), rgba(238, 130, 238, 0.4));
+  background-size: 200% 200%;
+  background-position: center;
+  animation: rainbow 5s linear infinite;
+  border: rgb(47, 255, 0) 2px dotted;
+  border-radius: 5px;
+  box-shadow: 1px 3px 5px 1px green;
+}
+
+/* Pinned Messages */
+.messagesPopout__22763 {
+  background: radial-gradient(circle, rgba(255, 0, 0, 0.4), rgba(255, 165, 0, 0.4), rgba(255, 255, 0, 0.4), rgba(0, 128, 0, 0.4), rgba(0, 0, 255, 0.4), rgba(75, 0, 130, 0.4), rgba(238, 130, 238, 0.4));
+  background-size: 200% 200%;
+  background-position: center;
+  animation: rainbow 5s linear infinite;
+}
+
+.messageGroupWrapper_f8c6e9 {
+  background-color: rgba(0, 7, 98, 0.500);
+  border-radius: 10px;
+  transition: all .3s ease-out;
+  border: rgb(0, 255, 55) 2px dotted;
+  box-shadow: 1px 3px 5px 1px rgba(0, 128, 0, 0.315);
+  margin-top: 5px;
+}
+
+.header_f5cc88 {
+  background-color: rgba(0, 7, 98, 0.500);
+  transition: all .3s ease-out;
+  border: rgb(0, 255, 55) 2px dotted;
+  box-shadow: 1px 3px 5px 1px rgba(0, 128, 0, 0.315);
+
+}
+
+
+/* Rainbow Flashy Bullshit */
+
+.name_c08dbc,
+.membersGroup__85843,
+.modeUnread_f74c03 .name__8d1ec,
+.heading-md-semibold__574c7,
+.container_de798d .overflow__87fe8,
+.highlighted__7bba7 .name__02dbd,
+.modeSelected__487d6 .name__8d1ec {
+  background-image: linear-gradient(to left, rgb(130, 202, 238), green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.name_c08dbc:hover,
+.membersGroup__85843:hover,
+.modeUnread_f74c03 .name__8d1ec:hover,
+.heading-md-semibold__574c7:hover,
+.modeUnread_f74c03 .name__8d1ec,
+.highlighted__7bba7 .name__02dbd {
+  animation: rainbowText 2s infinite;
+}
+
+.subtitle_bba2b7,
+.name__8d1ec {
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0.629), rgba(0, 128, 0, 0.687), rgba(0, 0, 255, 0.99), rgba(255, 255, 0, 0.91));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.subtitle_bba2b7:hover,
+.name__8d1ec:hover {
+  animation: rainbowText 2s infinite;
+}
+
+@keyframes rainbowText {
+  0% {
+    text-shadow: 0 0 1px red;
+  }
+
+  14% {
+    text-shadow: 0 0 1px orange;
+  }
+
+  28% {
+    text-shadow: 0 0 1px yellow;
+  }
+
+  42% {
+    text-shadow: 0 0 1px green;
+  }
+
+  57% {
+    text-shadow: 0 0 1px blue;
+  }
+
+  71% {
+    text-shadow: 0 0 1px indigo;
+  }
+
+  85% {
+    text-shadow: 0 0 1px violet;
+  }
+
+  100% {
+    text-shadow: 0 0 1px red;
+  }
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 200% 0;
+  }
+
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+
+@keyframes flashRainbow {
+  0% {
+    fill: red;
+  }
+
+  10% {
+    fill: orange;
+  }
+
+  20% {
+    fill: yellow;
+  }
+
+  30% {
+    fill: green;
+  }
+
+  40% {
+    fill: blue;
+  }
+
+  50% {
+    fill: indigo;
+  }
+
+  60% {
+    fill: violet;
+  }
+
+  70% {
+    fill: pink;
+  }
+
+  80% {
+    fill: magenta;
+  }
+
+  90% {
+    fill: cyan;
+  }
+
+  100% {
+    fill: red;
+  }
+}
+
+/* Apply the animation on hover */
+svg:hover {
+  animation: flashRainbow 2s infinite, spin 1s infinite;
+}
+
+path:hover {
+  animation: flashRainbow 2s infinite, spin 1s infinite;
+}

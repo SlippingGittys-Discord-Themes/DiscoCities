@@ -1,0 +1,44 @@
+:root {
+  --background-tertiary: var(--LilWatBackground2);
+  --background-secondary: var(--LilWatBackground2);
+  --background-secondary-alt: var(--LilWatBackground2);
+  --background-primary: var(--LilWatBackground);
+  --channeltextarea-background: var(--LilWatTextBackground);
+  --background-accent: var(--accent);
+  --background-modifier-hover: var(--LilWatHover);
+  --background-modifier-active: rgb(30, 30, 30);
+  --background-modifier-selected: var(--accent-selected);
+  --deprecated-card-bg: #12141f63;
+  --background-floating: rgba(35, 35, 35, 0.771);
+  --deprecated-quickswitcher-input-background: #101320;
+  --elevation-low: none;
+  --toast-background: #000000 !important;
+  --toast-header: #000000 !important;
+  --toast-contents: #000000 !important;
+  --brand-experiment-500: var(--accent-selected);
+  --brand-experiment-560: var(--accent-selected);
+  --brand-experiment: var(--accent);
+}
+
+/* Simplified */
+:root {
+  --LilWatBackground: rgba(3, 3, 22, 0.3);
+  --LilWatBackground2: rgba(3, 3, 22, 0.3);
+  --LilWatContext: rgba(4, 68, 4, 0.44);
+  --LilWatMB: rgba(0, 220, 103, 0.405);
+  --LilWatSB: rgba(0, 14, 144, 0.5);
+  --LilWatTextBackground: rgba(24, 24, 24, 1);
+  --LilWatTitleBar: rgb(0, 14, 144, 0.5);
+  --LilWatFauxTitleBar: rgba(3, 3, 22, 0.812);
+  --LilWatHover: var(--accent-focused);
+}
+
+/* Accents */
+:root {
+  --accent: rgb(225, 191, 0);
+  --accent-hover: rgb(124, 124, 124, 0.977);
+  --accent-selected: rgba(124, 124, 124, 0.216);
+  --accent-focused: rgb(124, 124, 124, 0.200);
+  --accent-titles: gold;
+  --borders: rgba(124, 124, 124, 1) 2px dotted;
+}
