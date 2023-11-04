@@ -1,9 +1,0 @@
-/* Pixelify Sans */
-@import url('https://fonts.googleapis.com/css?family=Pixelify+Sans');
-* {
-  --font-primary: Pixelify Sans;
-  --font-display: Pixelify Sans;
-  --font-headline: Pixelify Sans;
-  text-rendering: optimizeLegibility;
-  text-transform: none !important;
-}
