@@ -9,3 +9,5 @@ https://github.com/SlippingGittys-Discord-Themes/projectCosmic/assets/76500838/8
 
 ### Browser
 * h-hey... nuuu... gooo awayyyy >_<
+
+# To be released later 
