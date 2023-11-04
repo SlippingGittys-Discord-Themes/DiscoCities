@@ -28,4 +28,9 @@
 @import url('https://slippinggittys-discord-themes.github.io/projectCosmic/components/file%20of%20selectors.css'); 
 @import url('https://slippinggittys-discord-themes.github.io/projectCosmic/components/file%20of%20variables.css');
 
+/* Wallpaper */
+body {
+  background-image: url("https://i.pinimg.com/originals/58/23/80/5823809c12e8d3e05de3f4bffba5e848.gif");
+}
+    
 }
