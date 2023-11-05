@@ -30,7 +30,7 @@
   display: none;
 }
 
-.search__07df0 {
+.search__07df0, .inner__178b2 {
   background-color: rgba(0, 7, 98, 0.33);
   border-radius: 5px;
   transition: all .3s ease-out;
@@ -194,6 +194,41 @@
   border: rgb(0, 255, 55) 2px dotted;
   box-shadow: 1px 3px 5px 1px rgba(0, 128, 0, 0.315);
 
+}
+
+/* Emoji Picker */
+.contentWrapper__321ed {
+  background: radial-gradient(circle, rgb(146, 0, 0), rgb(190, 123, 0), rgb(126, 126, 0), rgba(0, 128, 0, 1), rgba(0, 0, 255, 1.4), rgba(75, 0, 130, 1), rgb(118, 0, 118));
+  background-size: 200% 200%;
+  background-position: center;
+  animation: rainbow 5s linear infinite;
+  border: rgb(47, 255, 0) 2px dotted;
+  border-radius: 5px;
+  box-shadow: 1px 3px 5px 1px green;
+}
+
+.emojiPickerHasTabWrapper__80686 .categoryList_f8c48f,
+.inspector__993e1 {
+  top: 50px;
+  background: transparent;
+}
+
+.header_c3c744,
+.packHeader__8b804,
+.wrapper_cd625e,
+.categoryList__173de,
+.soundboardContainer__81b8e {
+  background-color: transparent;
+}
+
+.categoryItemDefaultCategorySelected__8245a,
+.categoryItemDefaultCategorySelected__8245a:hover,
+.navItem_df0bc1+.navItem_df0bc1,
+#gif-picker-tab {
+  background-color: var(--LilWatSB);
+  border-radius: 10px;
+  border: rgb(0, 234, 255) 1px dashed;
+  box-shadow: 1px 1px 5px 1px blue;
 }
 
 
