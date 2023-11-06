@@ -1,5 +1,7 @@
-<h1 align="center">DiscoCities</h1>
+![adfsdfsdf](https://github.com/SlippingGittys-Discord-Themes/DiscoCities/assets/76500838/16e67d15-9789-4860-8d42-42e9dab7e7a5)
 <p align="center">Web Design is My Passion</p>
+
+
 
 https://github.com/SlippingGittys-Discord-Themes/projectCosmic/assets/76500838/86e169c9-97b1-4582-ad46-94c80ba436d3
 
