@@ -12,7 +12,8 @@ and then it hit me
 if all i have is bad ideas
 why not do it
 i have plenty of themes with good ideas, so a bad ideas theme would be perfect
-no one ever wants to do bad ideas my good idea is that
+no one ever wants to do bad ideas
+my good idea is that
 i will exaust all the bad ideas
 and it will be good
 ```
