@@ -377,6 +377,31 @@
   }
 }
 
+@keyframes bounce {
+  to {
+    transform: translateY(-3px);
+  }
+}
+
+/* Server Name Bounce */
+.name_c08dbc {
+  background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+  background-size: 400% 100%;
+  animation: moveGradient 10s linear infinite, bounce 0.5s ease infinite alternate;;
+  color: transparent;
+  -webkit-background-clip: text;
+  text-stroke: 2px black;
+}
+
+@keyframes moveGradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
 /* Apply the animation on hover */
 svg:hover {
   animation: flashRainbow 2s infinite, spin 1s infinite;
