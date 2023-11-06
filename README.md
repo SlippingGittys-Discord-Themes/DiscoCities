@@ -1,11 +1,21 @@
 ![adfsdfsdf](https://github.com/SlippingGittys-Discord-Themes/DiscoCities/assets/76500838/16e67d15-9789-4860-8d42-42e9dab7e7a5)
 <p align="center">Web Design is My Passion</p>
 
-
-
 https://github.com/SlippingGittys-Discord-Themes/projectCosmic/assets/76500838/86e169c9-97b1-4582-ad46-94c80ba436d3
 
 # In Alpha <------ NOT FINISHED
+
+```
+vozy 💫 — Yesterday at 9:19 AM:
+i spent a few months trying to think of good ideas, and i couldnt think of anything good
+and then it hit me
+if all i have is bad ideas
+why not do it
+i have plenty of themes with good ideas, so a bad ideas theme would be perfect
+no one ever wants to do bad ideas my good idea is that
+i will exaust all the bad ideas
+and it will be good
+```
 
 ## How to use 
 ### Discord app
