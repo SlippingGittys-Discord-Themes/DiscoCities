@@ -1,4 +1,4 @@
-<h1 align="center">Project Cosmic (working title)</h1>
+<h1 align="center">DiscoCities</h1>
 <p align="center">Web Design is My Passion</p>
 
 https://github.com/SlippingGittys-Discord-Themes/projectCosmic/assets/76500838/86e169c9-97b1-4582-ad46-94c80ba436d3
