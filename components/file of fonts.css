@@ -7,3 +7,22 @@
   text-rendering: optimizeLegibility;
   text-transform: none !important;
 }
+
+/* Monospace Font */
+
+@font-face {
+  font-family: 'monogram';
+  src: url("https://menez.io/css/font/monogram_extended.ttf") format('truetype');
+}
+
+code,
+.codeBlockText__6172e,
+.codeLine__3797b,
+.markup_a7e664 code.inline,
+.after_inlineCode__2197d,
+.before_inlineCode__37e14,
+.inlineCode_d702a4,
+.markup_a7e664 code {
+  font-family: "monogram", monospace;
+  font-size: 20px;
+}
