@@ -6,7 +6,7 @@ https://github.com/SlippingGittys-Discord-Themes/projectCosmic/assets/76500838/8
 # In Alpha <------ NOT FINISHED
 
 ```
-vozy 💫 — Yesterday at 9:19 AM:
+vozy 💫 — 11/05/2023 9:19 AM:
 i spent a few months trying to think of good ideas, and i couldnt think of anything good
 and then it hit me
 if all i have is bad ideas
